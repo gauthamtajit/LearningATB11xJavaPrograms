@@ -13,5 +13,6 @@ public class Task001_Table_9 {
         System.out.printf("%d*1=%d\n", num,num*8);
         System.out.printf("%d*1=%d\n", num,num*9);
         System.out.printf("%d*1=%d\n", num,num*10);
+        System.out.printf("%d*1=%d\n", num,num*11);
     }
 }
